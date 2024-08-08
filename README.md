@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sunjay Nair
-- 👀 I’m interested in Data Engineering, Machine Learning, Artificial Intelligence
-- 🌱 I’m currently learning Kubernetes
+- 👀 I’m passionate about Data and Analytics Engineering.
+- 🌱 I’m currently reading Designing Data-Intensive Applications
 - 💞️ I’m looking to collaborate on Data Engineering and Data Science Projects
 - 📫 How to reach me at nairsunjay@gmail.com
 
